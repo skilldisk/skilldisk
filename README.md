@@ -19,7 +19,7 @@ Skill Disk is fastest growing online and offline education base situated in the 
 <h3 align="center">VISION</h3>
 <p  align="center">"To be a pioneer in empowering the future generation by imparting pristine knowledge which can greatly enhance the cognitive ability, through ceaseless innovation in education, research, and creativity."</p>
 
--------------
+
 ## 🙋‍♂️ Connect with us
 
 <!-- Badges template - https://github.com/badges/shields -->
