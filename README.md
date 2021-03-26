@@ -5,8 +5,7 @@
 
 <!-- Typing SVG (WIP by DenverCoder1) - repo coming soon! -->
 <p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Friend%20For%20Your%20Skill%20Development+;
-  4-A+Model+of+Skill+Disk;Aspire+Analyse+Acquire+Apply&center=true&width=400&height=50">
+  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Friend%20For%20Your%20Skill%20Development+;4-A+Model+of+Skill+Disk;Aspire+Analyse+Acquire+Apply&center=true&width=400&height=50">
 </p>
 
 
